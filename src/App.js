@@ -4,7 +4,7 @@ import Routing from './routes';
 import GlobalStyle from './styles/global';
 import Header from './components/Header';
 import { CartContextProvider } from './context/cart';
-
+//aplicacion Claudia Nancy Machorro Salgado
 function App() {
   return (
     <CartContextProvider>

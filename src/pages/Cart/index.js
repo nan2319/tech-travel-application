@@ -10,7 +10,6 @@ function Cart(){
     
     const data = [...state.cart];
     const t= data.map(id=>id.subtotal).reduce((prev, curr)=> prev + curr, 0);
-    
 
     return(
 <Container>
