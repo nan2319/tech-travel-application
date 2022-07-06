@@ -14,7 +14,7 @@ padding: 36px 44px;
 align-items: center;
 margin-top: 45px;
 max-width:958px;
-
+margin-bottom: 500px;
 `;
 export const TravelItem = styled.li`
 width: 100%;

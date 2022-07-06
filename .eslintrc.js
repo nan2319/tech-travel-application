@@ -32,7 +32,7 @@ module.exports = {
     'react/jsx-props-no-spreading': 'off',
     'react/prop-types': 'off',
     'react/jsx-no-bind': 'off',
-    'prettier/prettier': ['error',{'endOfLine':'auto',}],
+    'prettier/prettier': 'off',
     'react/jsx-no-constructed-context-values':'off',
   },
 };
